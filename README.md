@@ -71,9 +71,9 @@ Softmax                     →  Probabilités par classe
 
 Déployé sur Hugging Face Spaces avec Gradio.
 
-🔗 **Lien de la démo** :[Testez l'application](https://huggingface.co/spaces/gelsonmr/tri-dechets-ml)
+🔗 **Lien de la démo** : [Testez l'application](https://huggingface.co/spaces/gelsonmr/tri-dechets-ml)
 
-## 👤 Auteur
+## 👤 Membres de groupe
 
 - Syphax ALILI
 - Yanis MEDJADI
